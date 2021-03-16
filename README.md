@@ -1,4 +1,4 @@
-# kubeflow
+# Kubeflow
 Kubeflow is an open-source platform running on top of Kubernetes and designed to make machine learning (ML) workflow simple, portable and scalable.
 
 # About Script
